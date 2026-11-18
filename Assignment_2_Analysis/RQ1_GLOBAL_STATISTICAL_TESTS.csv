@@ -1,0 +1,3 @@
+Test,Statistic,P_Value,Degrees_of_Freedom
+Spearman rank correlation,0.9088399496608316,3.079123748845129e-20,
+Chi-square goodness-of-fit,791.1783059717854,5.835517520598105e-134,50.0

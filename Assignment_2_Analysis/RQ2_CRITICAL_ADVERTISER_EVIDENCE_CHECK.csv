@@ -1,0 +1,6 @@
+company_clean,Advertisements,Share_Pct,Verification_Priority,Proposed_Type,Final_Type,Evidence_Source,Evidence_URL,Evidence_Notes,Verification_Status,Candidate_URL,Identity_Confirmed,Business_Function_Confirmed
+Tata Consultancy Services,68,1.8269747447608813,Critical,IT / Professional Services Consulting,Unclassified,,,,Not verified,https://www.tcs.com/,No,No
+NR Consulting,58,1.5583019881783988,Critical,Staffing / Recruitment,Unclassified,,,,Not verified,,No,No
+Software Technology Inc.,40,1.07469102632993,Critical,Unclassified,Staffing / Recruitment,Official company website,https://stiorg.com/about-us.html,Provides both staffing and IT consulting; company identity should be cross-checked.,Identity check required,https://stiorg.com/about-us.html,No,No
+Diverse Lynx,37,0.9940891993551854,Critical,Staffing / Recruitment,Unclassified,,,,Not verified,https://www.diverselynx.com/,No,No
+Robert Half,35,0.9403546480386888,Critical,Staffing / Recruitment,Unclassified,,,,Not verified,https://www.roberthalf.com/,No,No

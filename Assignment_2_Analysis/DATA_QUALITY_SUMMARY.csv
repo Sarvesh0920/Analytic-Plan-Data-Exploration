@@ -1,0 +1,11 @@
+Metric,Value
+Validated US BA advertisements,3722.0
+Advertisements with matched skills,3606.0
+Advertisements without matched skills,116.0
+Skills join coverage (%),96.88
+Skill mentions before deduplication,92649.0
+Unique job-skill pairs,92020.0
+Duplicate skill mentions removed,629.0
+Distinct standardised skill labels,22189.0
+Duplicate job-skill pairs remaining,0.0
+State identification coverage (%),99.62
